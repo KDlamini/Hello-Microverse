@@ -15,7 +15,7 @@ Additional description about the project and its features.
 
 ## Authors
 
-👤 **Author1**
+👤 **Simo Nkosi**
 
 - GitHub: [@githubhandle](https://github.com/KDlamini)
 - Twitter: [@twitterhandle](https://twitter.com/RealSimoNkosi)
